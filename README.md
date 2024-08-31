@@ -7,7 +7,7 @@ This repository contains my code submissions for various Kaggle competitions. It
 ### 1. Titanic: Machine Learning from Disaster
 
 - **Description**: Predict survival on the Titanic
-- **Code**: [Titanic Project](https://github.com/Gall-ardo/KaggleProjects/Titanic/notebooks/main.ipynb)
+- **Code**: [Titanic Project](https://github.com/Gall-ardo/KaggleProjects/Titanic/notebooks/Titanic_Analysis.ipynb)
 - **Kaggle Competition**: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 ### 2. House Prices: Advanced Regression Techniques
